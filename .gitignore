@@ -35,3 +35,6 @@ Thumbs.db
 # Database / logs
 *.log
 mongodb_data/
+
+# Archives
+*.zip
